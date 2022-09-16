@@ -52,7 +52,6 @@ main{
     margin: 32px auto;
     display: grid;
     gap: 24px;
-    margin-top: 32px;
 }
 
 section {
@@ -96,12 +95,12 @@ section ul li:hover{
 .game-list img {
     border-radius: 8px;
     width: 90px;
-    height: 120px;
 }
 
 .channel-list img {
-    border-radius: 50%;
+    border-radius: 50%; 
     width: 70px;
+    border: 1px solid #443E54;
 }
 
 /* animation */
